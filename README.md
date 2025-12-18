@@ -2,6 +2,10 @@
 
 A simple and functional todo list web application built with Python, Streamlit, and PostgreSQL for managing daily tasks.
 
+## Screenshot
+
+![Todo List Application](todo-screenshot.png)
+
 ## Features
 
 - ✅ **Add Tasks** - Quickly add new todo items with priority levels
