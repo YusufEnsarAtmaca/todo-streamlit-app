@@ -27,8 +27,8 @@ A simple and functional todo list web application built with Python, Streamlit, 
 ├── app.py              # Main Streamlit application
 ├── main.py             # Entry point for running the app
 ├── requirements.txt    # Python dependencies
-├── README.md          # Project documentation
-├── ANALYSIS.md        # Analysis of features and implementation
+├── README.md          # Project overview and technical details
+├── ANALYSIS.md        # Vibe coding tools research and comparative analysis
 ├── EXPERIENCE.md      # Development experience and learning
 └── .gitignore         # Git ignore file
 ```
