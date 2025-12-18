@@ -4,7 +4,7 @@ A simple and functional todo list web application built with Python, Streamlit, 
 
 ## Screenshot
 
-![Todo List Application](todo-screenshot.png)
+![Todo List Application](todo_app.png)
 
 ## Features
 
