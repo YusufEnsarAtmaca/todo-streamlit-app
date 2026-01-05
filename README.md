@@ -9,3 +9,6 @@ This project is a simple Todo List application built with **Python**, **Streamli
    ```bash
    git clone (https://github.com/YusufEnsarAtmaca/todo-streamlit-app.git)
    cd "Docker hw"
+Access the App: Open your browser and go to http://localhost:8501.
+
+Stop the App: Press Ctrl + C in the terminal.
