@@ -7,5 +7,5 @@ This project is a simple Todo List application built with **Python**, **Streamli
 1. **Prerequisites:** Make sure you have [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed.
 2. **Clone the project:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone (https://github.com/YusufEnsarAtmaca/todo-streamlit-app.git)
    cd "Docker hw"
